@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <Name>Alice</Name>
+    <Age>22</Age>
+  </row>
+  <row>
+    <Name>Bob</Name>
+    <Age>25</Age>
+  </row>
+</data>
